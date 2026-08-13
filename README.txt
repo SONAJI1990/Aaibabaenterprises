@@ -1,0 +1,1 @@
+Images extracted from the supplied website mockup so the website can be uploaded to GitHub/Netlify with its assets folder.
